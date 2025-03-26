@@ -8,6 +8,8 @@
 A Streamlit web application that analyzes food images using your local Ollama instance with a multimodal vision model (like LLaVA or Granite) to estimate nutritional content, ingredients, and other details.
 
  ![image](https://github.com/user-attachments/assets/79b226d1-b36a-4eec-b453-870e10a049e2)
+![image](https://github.com/user-attachments/assets/5e195382-bc27-471e-89de-5da90ef930bf)
+![image](https://github.com/user-attachments/assets/bc632112-6b61-4ea2-aa00-639ea294f2b2)
 
 
 ## ✨ Features
