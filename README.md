@@ -10,7 +10,10 @@ A Streamlit web application that analyzes food images using your local Ollama in
  ![image](https://github.com/user-attachments/assets/79b226d1-b36a-4eec-b453-870e10a049e2)
 ![image](https://github.com/user-attachments/assets/5e195382-bc27-471e-89de-5da90ef930bf)
 ![image](https://github.com/user-attachments/assets/bc632112-6b61-4ea2-aa00-639ea294f2b2)
-
+![image](https://github.com/user-attachments/assets/f4e63ad5-163b-426f-80aa-51bbfe5576d0)
+기본 온도 0 이니까 온도좀 높이면 답변 잘나옴 조절 필요
+비빔밥은 0.5 로 해봄
+![image](https://github.com/user-attachments/assets/14924eea-0eec-42fb-8d91-09a9d1d5f0da)
 
 ## ✨ Features
 
